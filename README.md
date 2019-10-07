@@ -20,8 +20,8 @@ It allow the user to save the articles in a database, add notes to an article, a
 * request
 * express-handlebars
 
-[Visit the deployed app on Heroku](https://lit-meadow-73315.herokuapp.com//)
+[Visit the deployed app on Heroku](https://lit-meadow-73315.herokuapp.com/)
 
-![Demo](/assets/images/demo.gif)
+![Demo](public/assets/images/demo.gif)
 
 
